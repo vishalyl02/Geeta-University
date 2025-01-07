@@ -1,0 +1,25 @@
+
+
+Assignment-3
+
+Que-1:
+
+https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true
+
+
+Que-2:
+
+Create a structure called "Student" with members name, age, and total marks. Write a C program to input data for two students, display their information,
+ and find the average of total marks
+
+Que-3:
+ Define a structure named Time with members hours, minutes, and seconds. Write a C program to input two times, add them, and display the result in proper time format.
+
+Que-4:
+Write a program in C to read an existing file.
+Test Data :
+Input the file name to be opened : test.txt
+Expected Output :
+
+ The content of the file test.txt is  :                                                                       
+This is the content of the file test.txt.
