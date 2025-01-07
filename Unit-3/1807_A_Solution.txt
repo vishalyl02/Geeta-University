@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+void solve() {
+    int a, b, c;
+    // Read the three integers
+    scanf("%d %d %d", &a, &b, &c);
+
+    // Check if the sum of a and b equals c
+    if (a + b == c) {
+        printf("+\n");
+    } else {
+        printf("-\n");
+    }
+}
+
+int main() {
+    int t;
+    // Read the number of test cases
+    scanf("%d", &t);
+
+    // Loop through each test case and call solve
+    for (int i = 0; i < t; i++) {
+        solve();
+    }
+
+    return 0;
+}

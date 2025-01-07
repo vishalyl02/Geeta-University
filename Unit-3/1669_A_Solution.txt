@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    int t;
+    scanf("%d", &t); // Input the number of test cases
+    while (t--) {
+        int x;
+        scanf("%d", &x); // Input the value of x
+        
+        if (x < 1400)
+            printf("Division 4\n");
+        else if (x < 1600)
+            printf("Division 3\n");
+        else if (x < 1900)
+            printf("Division 2\n");
+        else
+            printf("Division 1\n");
+    }
+    
+    return 0;
+}
