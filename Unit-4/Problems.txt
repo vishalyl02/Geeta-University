@@ -1,10 +1,5 @@
 
 
-
-Date: 03 Dec 2024
-
-
-
 Subjective Questions:
 
 https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true
